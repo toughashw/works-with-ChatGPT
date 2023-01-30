@@ -1,2 +1,2 @@
-# works-with-ChatGPT-
+# Works with ChatGPT Assistant
 Repo of Vocal ChatGPT Assistant
